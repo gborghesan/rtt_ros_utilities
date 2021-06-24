@@ -1,0 +1,9 @@
+[submodule "rttlua_completion"]
+	path = rttlua_completion
+	url = ../../gborghesan/rttlua_completion.git
+[submodule "rtt_dot_service"]
+	path = rtt_dot_service
+	url = ../../gborghesan/rtt_dot_service.git
+[submodule "rFSM"]
+	path = rFSM
+	url = ../../kmarkus/rFSM.git
