@@ -6,4 +6,4 @@
 	url = ../../gborghesan/rtt_dot_service.git
 [submodule "rFSM"]
 	path = rFSM
-	url = ../../kmarkus/rFSM.git
+	url = ../../gborghesan/rFSM.git
